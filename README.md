@@ -1,5 +1,5 @@
 # Automatic Flashcard Grading
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/d67Y1DyH9TI
 #### Description: 
 
 TLDR: This python tkinter app locally stores flashcards & decks in the form of JSON files, automatically grading their difficultly level based on how often a card particular card is answered correctly or incorrectly.
