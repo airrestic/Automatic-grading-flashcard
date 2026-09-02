@@ -3,6 +3,7 @@ __pycache__/
 .DS_Store
 venv/
 flashcard_data/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
